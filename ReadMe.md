@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Data Analyst Intern @ Autoglass - Brazil<br>🌱 I’m currently learning python, ML and Vison Computer Vision<br>📫 How to reach me: guerbruno@gmail.com<br>⚡ Fun fact: Pokemon Fan
+🔭 I’m currently working as Data Analyst Intern @ Autoglass - Brazil<br>🌱 I’m currently learning python, ML and Computer Vision<br>📫 How to reach me: guerbruno@gmail.com<br>⚡ Fun fact: Pokemon Fan
 
 
 ## 🌐 Socials:
