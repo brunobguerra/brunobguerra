@@ -3,9 +3,9 @@
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
- - 👨‍🎓 Formdao em Engenharia Elétrica pela UFES. Focando minhas optativas nas áreas de ML e Visão Computacional.
+ - 👨‍🎓 Formado em Engenharia Elétrica pela UFES. Focando minhas optativas nas áreas de ML e Visão Computacional.
  - 👨‍💻 Migrei para a área de DataScience em 2022. Possuo experiência com análise de dados (principalmente Tableau e Excel) há mais de dois anos.
- - 🔭 Atualmente, trabalho focado nas áreas de Análise e Ciência de Dados, desenvolvendo produto de dados.
+ - 🔭 Atualmente, trabalho focado nas áreas de Análise e Ciência de Dados, desenvolvendo produto de dados com python e SQL.
 
 <h2 align="left">💻 Tech Skills</h2>
 
