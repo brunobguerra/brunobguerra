@@ -11,11 +11,11 @@
 
 <p align="left">
   <h3 align="left">Linguagem de Programação:</h3>
-  <a href="https://skillicons.dev">
+<!--   <a href="https://skillicons.dev"> -->
     <img src="https://skillicons.dev/icons?i=matlab,octave,py,r" />
   </a>
   <h3 align="left">Banco de Dados:</h3>
-  <a href="https://skillicons.dev">
+<!--   <a href="https://skillicons.dev"> -->
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
   <h3 align="left">Visualização de Dados:</h3>
@@ -26,7 +26,8 @@
 <h2 align="left">🌐 Redes Sociasis</h2>
 <div style="display: inline_block">
  <p align="left">
- <a href="https://linkedin.com/in/bruno-b-guerra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henriquewfranco" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/bruno-b-guerra/">
+   <img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
  </p>
 </div> 
 
